@@ -6,7 +6,7 @@ Welcome to my portfolio website! 🎉
 This is a personal web page/portfolio project where I showcase my skills, projects, and experience in web development and programming.
 
 ## About Me
-- I'm currently learning Python programming and Computer Science at University of Nairobi
+- I'm currently learning programming at IYF program in Nairobi
 - I'm interested in Python programming, web development, and coding for beginners
 - I'm looking to collaborate on beginner-friendly open source projects and starter projects
 
