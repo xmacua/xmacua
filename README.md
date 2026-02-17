@@ -81,11 +81,12 @@ My name is **Vivian**, i;m a passionate learner currently exploring the world of
 2. Baking
 3. Playing pool
 
-**Feel free to reach out!**
 
 **Let's Connect:**
 - [Visit My GitHub](https://github.com/xmacua)
 - [My Learning Journey](https://github.com/xmacua/xmacua)
 
+
+**Feel free to reach out!**
 
 
