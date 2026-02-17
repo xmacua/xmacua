@@ -52,7 +52,7 @@ I am committed to **mastering** the fundamentals of software development while c
 print("Hello, world!")
 ```
 
-## Exercise 8 — Blockquote
+##  — Blockquote
 
 > "The only way to do great work is to love what you do." — Steve Jobs
 >
