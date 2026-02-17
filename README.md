@@ -1,34 +1,35 @@
+## My Learning Goals 
+
+### This Semester
+
+##  Headings
 ## My Learning Goals
 
 ### This Semester
 
-## Exercise 1 — Headings
-## My Learning Goals
-
-### This Semester
-
-## Exercise 2 — Text formatting
+## Text formatting
 I am committed to **mastering** the fundamentals of software development while continuously improving my *problem-solving* skills through practice with `git` and version control systems.
 
-## Exercise 3 — Links
+## Links
 - [My GitHub Profile](https://github.com/xmacua)
 - [GitHub Documentation](https://docs.github.com)
 
-## Exercise 4 — Lists
+## Lists
 
 ### Things I want to learn:
-- Web development frameworks and technologies
-- Advanced Git workflows and collaboration techniques
-- Cloud deployment and DevOps practices
+
+-Learn basic programming concept
+-Build simple projects(like a personal website)
+-Understand how GitHub works
 
 ### Steps to make a commit in Git:
 1. Modify or create files in your working directory
-2. Stage your changes using `git add <filename>` or `git add .`
+2. Stage your changes using `git add <filename>`
 3. Commit your changes with `git commit -m "Your commit message"`
-4. Push your changes to the remote repository using `git push`
+4. Push your changes to the remote repository using `git push` if your repository is connected to GitHub
 5. Verify your changes on GitHub
 
-## Exercise 5 — Table
+## Table
 
 | Tool | Purpose | Link |
 |------|---------|------|
@@ -36,7 +37,7 @@ I am committed to **mastering** the fundamentals of software development while c
 | GitHub | Hosting and managing repositories | https://github.com |
 | VS Code | Code editor and development environment | https://code.visualstudio.com |
 
-## Exercise 6 — Task list
+## Task list
 
 - [x] Learn the basics of Markdown formatting
 - [x] Set up my GitHub profile
@@ -45,17 +46,10 @@ I am committed to **mastering** the fundamentals of software development while c
 - [ ] Contribute to an open-source project
 - [ ] Learn Docker and containerization
 
-## Exercise 7 — Code block
+## Code block
 
-```javascript
-// Simple function to calculate the sum of two numbers
-function addNumbers(a, b) {
-  return a + b;
-}
-
-// Example usage
-const result = addNumbers(5, 3);
-console.log('The sum is: ' + result); // Output: The sum is: 8
+```python
+print("Hello, world!")
 ```
 
 ## Exercise 8 — Blockquote
@@ -63,3 +57,27 @@ console.log('The sum is: ' + result); // Output: The sum is: 8
 > "The only way to do great work is to love what you do." — Steve Jobs
 >
 > This reminds me that learning to code should be an enjoyable journey, not just a checklist of tasks. Focus on understanding concepts deeply and building projects that excite you.
+>
+
+## About me
+
+### Who i'm
+
+My name is **Vivian**, i;m a passionate learner currently exploring the world of **programming**. I believe in continuous growth and engaging in projects that challenge me.
+
+
+**Key interests:**
+-Learning basic programming concept
+-Problem solving using code
+-Full-stack web development
+-Open source collaborations
+
+>"Every expert was once a beginner."
+>
+>This is my mindset as i learn and grow in tech!
+
+**Let's Connect:**
+- [Visit My GitHub](https://github.com/xmacua)
+- [My Learning Journey](https://github.com/xmacua/xmacua)
+
+
