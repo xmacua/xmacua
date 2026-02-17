@@ -1,40 +1,65 @@
-# Hi, I'm Vivian Macua
+## My Learning Goals
 
-Welcome to my portfolio website! 🎉
+### This Semester
 
-## About This Project
-This is a personal web page/portfolio project where I showcase my skills, projects, and experience in web development and programming.
+## Exercise 1 — Headings
+## My Learning Goals
 
-## About Me
-- I'm currently learning programming at IYF program in Nairobi
-- I'm interested in Python programming, web development, and coding for beginners
-- I'm looking to collaborate on beginner-friendly open source projects and starter projects
+### This Semester
 
-## Skills I'm Building
-- Git and GitHub
-- Python
-- HTML/CSS
-- JavaScript
-- Web Development
-- Collaboration skills
+## Exercise 2 — Text formatting
+I am committed to **mastering** the fundamentals of software development while continuously improving my *problem-solving* skills through practice with `git` and version control systems.
 
-## Current Projects
-- Creating a personal portfolio web page
-- Learning Python basics and practising beginner programs
-- Building beginner-friendly web projects
+## Exercise 3 — Links
+- [My GitHub Profile](https://github.com/xmacua)
+- [GitHub Documentation](https://docs.github.com)
 
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- Python
+## Exercise 4 — Lists
 
-## How to Reach Me
-- Email: macuavivianne@gmail.com
-- LinkedIn: https://www.linkedin.com/in/vivian-macua-377261371
+### Things I want to learn:
+- Web development frameworks and technologies
+- Advanced Git workflows and collaboration techniques
+- Cloud deployment and DevOps practices
 
-## License
-This project is open source and available for learning purposes.
+### Steps to make a commit in Git:
+1. Modify or create files in your working directory
+2. Stage your changes using `git add <filename>` or `git add .`
+3. Commit your changes with `git commit -m "Your commit message"`
+4. Push your changes to the remote repository using `git push`
+5. Verify your changes on GitHub
 
----
-Thank you for visiting! Feel free to reach out if you'd like to collaborate or have any questions. 😊
+## Exercise 5 — Table
+
+| Tool | Purpose | Link |
+|------|---------|------|
+| Git | Version control and collaboration | https://git-scm.com |
+| GitHub | Hosting and managing repositories | https://github.com |
+| VS Code | Code editor and development environment | https://code.visualstudio.com |
+
+## Exercise 6 — Task list
+
+- [x] Learn the basics of Markdown formatting
+- [x] Set up my GitHub profile
+- [ ] Complete advanced Git workflows
+- [ ] Build my first full-stack web application
+- [ ] Contribute to an open-source project
+- [ ] Learn Docker and containerization
+
+## Exercise 7 — Code block
+
+```javascript
+// Simple function to calculate the sum of two numbers
+function addNumbers(a, b) {
+  return a + b;
+}
+
+// Example usage
+const result = addNumbers(5, 3);
+console.log('The sum is: ' + result); // Output: The sum is: 8
+```
+
+## Exercise 8 — Blockquote
+
+> "The only way to do great work is to love what you do." — Steve Jobs
+>
+> This reminds me that learning to code should be an enjoyable journey, not just a checklist of tasks. Focus on understanding concepts deeply and building projects that excite you.
