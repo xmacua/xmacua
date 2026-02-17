@@ -76,8 +76,16 @@ My name is **Vivian**, i;m a passionate learner currently exploring the world of
 >
 >This is my mindset as i learn and grow in tech!
 
+## Hobbies
+1. Coding
+2. Baking
+3. Playing pool
+
+**Feel free to reach out!**
+
 **Let's Connect:**
 - [Visit My GitHub](https://github.com/xmacua)
 - [My Learning Journey](https://github.com/xmacua/xmacua)
+
 
 
